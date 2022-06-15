@@ -14,4 +14,4 @@ Backtrader will execute BUY when the pct change in signal is -15%.
 The Position is held until the pct change in signal is +50%, then a SELL order is triggered and the position will be closed.
 
 ## Report
-A detailed report is generated at the end of the execution using Quantstats and saved inside the dir as "stats.html".
+A detailed report is generated at the end of the execution using Quantstats and saved inside the dir as "stats.html".![Screenshot (164)](https://user-images.githubusercontent.com/50619554/173845261-b277f0d6-6862-4036-a262-886bb7e67e6a.jpg)
